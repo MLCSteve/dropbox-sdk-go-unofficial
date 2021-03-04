@@ -27,10 +27,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/async"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/auth"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/file_properties"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/async"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/auth"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/file_properties"
 )
 
 // Client interface describes all routes in this namespace

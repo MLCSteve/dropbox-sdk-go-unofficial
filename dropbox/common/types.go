@@ -24,7 +24,7 @@ package common
 import (
 	"encoding/json"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox"
 )
 
 // PathRoot : has no documentation (yet)
@@ -87,7 +87,7 @@ func (u *PathRoot) UnmarshalJSON(body []byte) error {
 // PathRootError : has no documentation (yet)
 type PathRootError struct {
 	dropbox.Tagged
-	// InvalidRoot : The root namespace id in Dropbox-API-Path-Root header is
+	// InvalidRoot : The root namespace id in  header is
 	// not valid. The value of this error is the user's latest root info.
 	InvalidRoot IsRootInfo `json:"invalid_root,omitempty"`
 }

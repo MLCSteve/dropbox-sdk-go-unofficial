@@ -1,4 +1,4 @@
-module github.com/dropbox/dropbox-sdk-go-unofficial
+module github.com/MLCSteve/dropbox-sdk-go-unofficial
 
 go 1.11
 

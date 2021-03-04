@@ -25,13 +25,13 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/account"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/files"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/secondary_emails"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/team_common"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/team_policies"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/users"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/account"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/files"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/secondary_emails"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/team_common"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/team_policies"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/users"
 )
 
 // DeviceSession : has no documentation (yet)

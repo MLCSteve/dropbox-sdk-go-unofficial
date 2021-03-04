@@ -31,8 +31,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/sharing"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/MLCSteve/dropbox-sdk-go-unofficial/dropbox/sharing"
 )
 
 // AddMember : has no documentation (yet)
